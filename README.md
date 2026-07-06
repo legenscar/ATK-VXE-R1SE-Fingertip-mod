@@ -12,7 +12,6 @@ Fingertip Mouse mod for the ATK VXE R1SE+ PCB.
 
 ## Assembly
 ### 1. Download and print all off the STL files.
-<img width="863" height="461" alt="image" src="https://github.com/user-attachments/assets/5fc6899e-c738-425d-9aec-7b7e78ee57d6" />
 I recommend rotating the main buttons 90 degrees if you are printing on a FDM to make sure they feel smooth. Dont forget the supports!
 <img width="530" height="361" alt="image" src="https://github.com/user-attachments/assets/f414c1e5-1c12-423f-ae84-0c888050708d" />
 
