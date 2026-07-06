@@ -29,7 +29,7 @@ You will need to cut the little "tail" of the side PCB if you dont want it stick
 Plug in the battery and stick it onto the sensor. Now you can mount the whole support assembly onto the base. First put the side with the buttons in, then the other side. Screw it into place from the bottom.
 <img width="4096" height="3072" alt="support in" src="https://github.com/user-attachments/assets/c33afa24-a600-47aa-8a28-c50cd6c4350b" />
 
-Last but not least, mount the main buttons and screw them in. Congratulations, youre done! If you experience excessive pretravel here you can heat up the "beams" of the main buttons (only if you are using certain plastics like PLA that melt easily and do not give of (very) toxic fumes) and bend them a little. 
+Last but not least, mount the main buttons and screw them in. Congratulations, youre done! If you experience excessive pretravel you can heat up the "beams" of the main buttons (only if you are using certain plastics like PLA that melt easily and do not give of (very) toxic fumes) and bend them a little. 
 <img width="4032" height="3024" alt="Finished mouse" src="https://github.com/user-attachments/assets/60a959a0-d391-4516-a68d-f6b0743866a8" />
 
 ## Notes
