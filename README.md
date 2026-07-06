@@ -11,7 +11,7 @@ Fingertip Mouse mod for the ATK VXE R1SE+ PCB, featuring a flared pinky rest for
 - lighter (could come in handy)
 
 ## Assembly
-### 1. Download and print all off the STL files.
+### 1. Download and print all of the STL files.
 I recommend rotating the main buttons 90 degrees if you are printing on a FDM to make sure they feel smooth. Dont forget the supports!
 
 <img width="530" height="361" alt="image" src="https://github.com/user-attachments/assets/f414c1e5-1c12-423f-ae84-0c888050708d" />
